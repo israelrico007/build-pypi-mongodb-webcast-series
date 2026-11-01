@@ -1,9 +1,9 @@
 -r requirements.txt
 
-waitress==1.1.0
-Mako==1.0.7
+waitress==3.0.1
+Mako==1.4.2
 MarkupSafe==1.0
-Pygments==2.2.0
+Pygments==2.20.0
 pyramid-debugtoolbar==4.4
 pyramid-mako==1.0.2
 WebTest==2.0.29 
@@ -13,6 +13,6 @@ beautifulsoup4==4.6.0
 coverage==4.5.1 
 more-itertools==4.2.0
 pluggy==0.6.0
-py==1.5.3
-pytest==3.6.1 
+py==1.11.0
+pytest==9.0.3 
 pytest-cov==2.5.1
